@@ -11,9 +11,9 @@
     <name>Multi modules project </name>
 
     <modules>
-        <module>client</module>
-        <module>inventory</module>
-        <module>order</module>
+        <module>clientservice</module>
+        <module>inventoryservice</module>
+        <module>orderservice</module>
         <!--
         <module>parent</module>
         -->
