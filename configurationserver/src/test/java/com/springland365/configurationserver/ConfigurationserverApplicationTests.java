@@ -1,10 +1,10 @@
-package com.springland365.bookstore.inventory;
+package com.springland365.configurationserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryApplicationTests {
+class ConfigurationserverApplicationTests {
 
 	@Test
 	void contextLoads() {

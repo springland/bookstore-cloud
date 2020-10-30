@@ -1,13 +1,13 @@
-package com.springland365.bookstore.inventory;
+package com.springland365.configurationserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InventoryApplication {
+public class ConfigurationserverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InventoryApplication.class, args);
+		SpringApplication.run(ConfigurationserverApplication.class, args);
 	}
 
 }

@@ -14,6 +14,7 @@
         <module>clientservice</module>
         <module>inventoryservice</module>
         <module>orderservice</module>
+        <module>configurationserver</module>
         <!--
         <module>parent</module>
         -->
